@@ -5,6 +5,7 @@
   display: flex;
   flex-direction: column;
   background: #E5E5E5;
+  font-family: Open Sans;
 }
 
 .header {
@@ -94,7 +95,6 @@
   letter-spacing: 0.16em;
   margin: 0px 0px;
   font-size: 11px;
-  font-family: 'Open Sans';
   font-weight: bold;
   font-transform: uppercase;
 }
@@ -110,7 +110,6 @@
   display: flex;
   color: #1434F7;
   margin-left: 10px;
-  font-family: 'Open Sans';
   font-size: 10px;
   font-weight: bold;
 }
@@ -134,7 +133,6 @@
   color: #4B5466;
   line-height: 18px;
   font-size: 12px;
-  font-family: 'Open Sans';
 }
 
 .radio__section {
@@ -144,7 +142,6 @@
   text-transform: uppercase;
   color: #4B5466;
   font-size: 11px;
-  font-family: 'Open Sans';
   font-weight: bold;
 }
 
@@ -166,14 +163,12 @@
 }
 
 .category__age {
-  font-family: 'Open Sans';
   font-size: 15px;
   font-weight: bold;
 }
 
 .category__indicator {
   padding-right: 40px;
-  font-family: 'Open Sans';
   font-size: 11px;
   font-weight: bold;
   opacity: 0.5;
@@ -189,7 +184,6 @@
 
 .header-right-bottom__link {
   color: #010532;
-  font-family: 'Open Sans';
   font-size: 13px;
   font-stretch: ultra-condensed;
 }
@@ -207,7 +201,6 @@
   color: white;
   letter-spacing: 1px;
   line-height: normal;
-  font-family: 'Open Sans';
   font-size: 12px;
   font-stretch: ultra-condensed;
   font-weight: bold;
@@ -216,7 +209,6 @@
 .header-right-bottom .menu__search {
   border-left: 1px solid #E6E9F0;
   padding-left: 20px;
-  margin-right: 0px;
 }
 
 .footer {
@@ -239,7 +231,6 @@
 
 .gtrk__GTRK {
   color: white;
-  font-family: 'Open Sans';
   font-size: 10px;
   letter-spacing: 1px;
 }
@@ -248,7 +239,6 @@
   color: white;
   letter-spacing: 1px;
   margin-top: -15px;
-  font-family: 'Open Sans';
   font-size: 25px;
   font-weight: bold;
   font-stretch: ultra-condensed;
@@ -257,7 +247,6 @@
 .gtrk__copywriter {
   color: white;
   opacity: 0.5;
-  font-family: 'Open Sans';
   font-size: 12px;
 }
 
@@ -273,7 +262,6 @@
 
 .carte__link {
   color: white;
-  font-family: 'Open Sans';
   font-size: 13px;
   list-style-type: none;
   padding-top: 10px;
@@ -282,7 +270,6 @@
 
 .carte__title {
   color: white;
-  font-family: 'Open Sans';
   font-size: 12px;
   font-stretch: ultra-condensed;
   letter-spacing: 1px;
@@ -299,7 +286,6 @@
 
 .carte .carte-ether__link {
   color: white;
-  font-family: 'Open Sans';
   font-size: 13px;
   list-style-type: none;
   opacity: 0.5;
@@ -350,7 +336,6 @@ table td {
 .footer-bottom__privacy {
   color: white;
   opacity: 0.5;
-  font-family: 'Open Sans';
   font-size: 10px;
   float: left;
 }
@@ -364,13 +349,11 @@ table td {
 .footer-bottom-right__policy {
   color: white;
   opacity: 0.7;
-  font-family: Open Sans;
   font-size: 12px;
 }
 
 .footer-bottom-right__development {
   color: white;
-  font-family: Open Sans;
   font-size: 13px;
   display: flex;
   white-space: nowrap;
@@ -548,7 +531,6 @@ a:active {
 }
 
 .video-live__title {
-  font-family: Open Sans;
   font-weight: bold;
   font-size: 34px;
   color: #010532;
@@ -577,7 +559,6 @@ a:active {
 }
 
 .video-play__title {
-  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -631,7 +612,6 @@ a:active {
 }
 
 .video-social .button-back__title {
-  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 10px;
@@ -657,7 +637,6 @@ a:active {
 }
 
 .video-old .video-broadcast__video {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 11px;
@@ -672,7 +651,6 @@ a:active {
 
 .video-old .video-broadcast__audio {
   margin: 0px 40px;
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 11px;
@@ -717,7 +695,6 @@ a:active {
 
 .video-old .video-video__picture__time {
   z-index: 4;
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -729,7 +706,6 @@ a:active {
 }
 
 .video-old .video-video__date {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -741,7 +717,6 @@ a:active {
 }
 
 .video-old .video-video__title {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
@@ -751,7 +726,6 @@ a:active {
 }
 
 .video-old .video-video__release {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
@@ -762,7 +736,6 @@ a:active {
 }
 
 .video-old .video-video__description {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -781,7 +754,6 @@ a:active {
 }
 
 .video-old .video-all__title {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 11px;
@@ -842,7 +814,6 @@ a:active {
 }
 
 .video-sociall .button-back__title {
-  font-family: 'Open Sans';
   font-style: normal;
   font-weight: bold;
   font-size: 10px;
@@ -873,7 +844,6 @@ a:active {
 }
 
 .part-top__publication {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -895,7 +865,6 @@ a:active {
 }
 
 .part-top__views__text {
-  font-family: Open Sans;
   font-weight: normal;
   font-size: 12px;
   color: rgba(75, 84, 102, 0.65);
@@ -904,7 +873,6 @@ a:active {
 }
 
 .part-title {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: 600px;
   font-size: 34px;
@@ -932,7 +900,6 @@ a:active {
 
 .part-content__definition {
   background: rgba(33, 127, 247, 0.1);
-  font-family: Open Sans;
   font-style: italic;
   font-weight: normal;
   font-size: 16px;
@@ -957,7 +924,6 @@ a:active {
 }
 
 .part-content__foto__signature {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -1012,7 +978,6 @@ a:active {
   margin-right: auto;
   margin-left: auto;
   margin-top: 40px;
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -1027,6 +992,7 @@ a:active {
   margin-top: 18px;
   display: flex;
   flex-direction: row;
+  position: relative;
 }
 
 .part-comments__coach {
@@ -1041,7 +1007,6 @@ a:active {
 }
 
 .part-comments__coach__name {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -1052,7 +1017,6 @@ a:active {
 }
 
 .part-comments__coach__description {
-  font-family: Open Sans;
   font-style: normal;
   font-size: 14px;
   line-height: 21px;
@@ -1066,7 +1030,6 @@ a:active {
   padding: 30px 36px;
   width: 589px;
   border-left: 6px solid #217FF7;
-  font-family: Open Sans;
   font-style: italic;
   font-weight: normal;
   font-size: 16px;
@@ -1075,11 +1038,9 @@ a:active {
 }
 
 .part-comments__text__img {
-  position: relative;
-  margin-top: 220px;
-  margin-right: 20px;
-  z-index: 1;
-  margin-left: -60px;
+  position: absolute;
+  left: 93%;
+  top: 85%;
 }
 
 .part-comments__coach__name a {
@@ -1106,7 +1067,6 @@ a:active {
 
 .part-foto__signature {
   margin-top: 5px;
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -1143,14 +1103,13 @@ a:active {
 }
 
 .tags__all {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 11px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: #217FF7;
-  border-bottom: 1px solid #217ff7;
+  border-bottom: 1px dashed rgba(33, 127, 247, 0.3);
   padding-top: 0px;
 }
 
@@ -1197,7 +1156,6 @@ a:active {
 }
 
 .coupled-news__title__text {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -1238,7 +1196,6 @@ a:active {
 }
 
 .block-news__date__text {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -1252,7 +1209,6 @@ a:active {
 }
 
 .block-news__description {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -1277,7 +1233,6 @@ a:active {
 }
 
 .content3__title {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: 600;
   font-size: 28px;
@@ -1287,13 +1242,13 @@ a:active {
   margin-top: 30px;
 }
 
-.content2__title a {
+.content3__title a {
   text-decoration: none;
   color: #010532 !important;
   /* Цвет ссылок */
 }
 
-.content2__title a:hover {
+.content3__title a:hover {
   text-decoration: none;
 }
 
@@ -1335,7 +1290,6 @@ a:active {
 }
 
 .similar-news__block__date {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -1356,7 +1310,6 @@ a:active {
 }
 
 .similar-news__block__text {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
@@ -1388,7 +1341,6 @@ a:active {
 }
 
 .subscription .subscription-text__title {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -1397,7 +1349,6 @@ a:active {
 }
 
 .subscription .subscription-text__text {
-  font-family: Open Sans;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -1415,7 +1366,6 @@ a:active {
   background: #217FF7;
   border-radius: 5px;
   border: none;
-  font-family: Open Sans;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;

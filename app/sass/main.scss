@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: column;
   background: #E5E5E5;
+  font-family: Open Sans;
 }
 .header{
   padding-top: 10px;
@@ -89,7 +90,6 @@
     margin: 0px 0px;
     font: {
       size: 11px;
-      family: 'Open Sans';
       weight: bold;
       transform: uppercase;
     }
@@ -106,7 +106,6 @@
     color:#1434F7;
     margin-left: 10px;
     font: {
-      family: 'Open Sans';
       size: 10px;
       weight: bold;
     }
@@ -132,7 +131,6 @@
     line-height: 18px;
     font:{
       size: 12px;
-      family: 'Open Sans';
     }
   }
   &__section{
@@ -143,7 +141,6 @@
     color: #4B5466;
     font:{
       size: 11px;
-      family: 'Open Sans';
       weight: bold;
     }
 
@@ -167,7 +164,6 @@
 
   &__age{
    font: {
-      family: 'Open Sans';
       size: 15px;
       weight: bold;
    }
@@ -175,7 +171,6 @@
   &__indicator{
   padding-right: 40px;
    font: {
-      family: 'Open Sans';
       size: 11px;
       weight: bold; 
    }
@@ -193,7 +188,6 @@
   &__link{
     color: #010532;
     font: {
-      family: 'Open Sans';
       size: 13px;
       stretch: ultra-condensed;
     }
@@ -212,7 +206,6 @@
       letter-spacing: 1px;
       line-height: normal;
       font: {
-        family: 'Open Sans';
         size: 12px;
         stretch: ultra-condensed;
         weight: bold; 
@@ -222,7 +215,6 @@
     &__search{
       border-left: 1px solid #E6E9F0;
       padding-left: 20px;
-      margin-right: 0px;
     }
   }
 }
@@ -249,7 +241,6 @@
   &__GTRK{
     color: white;
     font:{
-      family: 'Open Sans';
       size: 10px;
     }
     letter-spacing: 1px;
@@ -260,7 +251,6 @@
     letter-spacing: 1px;
     margin-top: -15px;
     font:{
-      family: 'Open Sans';
       size: 25px;
       weight:bold;
       stretch: ultra-condensed;
@@ -271,7 +261,6 @@
     color: white;
     opacity: 0.5;
     font:{
-      family: 'Open Sans';
       size: 12px;
     }
   }
@@ -289,7 +278,6 @@
   &__link{
     color: white;
     font:{
-      family: 'Open Sans';
       size: 13px;
     }
     list-style-type: none;
@@ -300,7 +288,6 @@
   &__title{
     color: white;
     font:{
-      family: 'Open Sans';
       size: 12px;
       stretch: ultra-condensed;
     }
@@ -318,7 +305,6 @@
   &__link{
     color: white;
     font:{
-      family: 'Open Sans';
       size: 13px;
     }
     list-style-type: none;
@@ -375,7 +361,6 @@ table{
     color: white;
     opacity: 0.5;
     font:{
-      family: 'Open Sans';
       size: 10px;
     }
     float: left;
@@ -391,7 +376,6 @@ table{
     color: white;
     opacity: 0.7;
     font:{
-      family: Open Sans;
       size: 12px;
     }
   }
@@ -399,7 +383,6 @@ table{
   &__development{
     color: white;
     font:{
-      family: Open Sans;
       size: 13px;
     }
     display: flex;
@@ -545,7 +528,6 @@ a:active {
   
   &__title{
     font:{
-      family: Open Sans;
       weight: bold;
       size: 34px;
     }
@@ -576,7 +558,6 @@ a:active {
    }
    &__title{
     font:{
-      family: 'Open Sans';
       style: normal;
       weight: bold;
       size: 16px;
@@ -628,7 +609,6 @@ a:active {
     }
     &__title{
       font:{
-        family: 'Open Sans';
         style: normal;
         weight: bold;
         size: 10px;
@@ -656,7 +636,6 @@ a:active {
   
   &__video{
     font:{
-      family: Open Sans;
       style: normal;
       weight: bold;
       size: 11px;
@@ -673,7 +652,6 @@ a:active {
   &__audio{
     margin: 0px 40px;
     font:{
-      family: Open Sans;
       style: normal;
       weight: normal;
       size: 11px;
@@ -719,7 +697,6 @@ a:active {
      &__time{
       z-index: 4;
       font: {
-        family: Open Sans;
         style: normal;
         weight: normal;
         size: 12px;
@@ -734,7 +711,6 @@ a:active {
 
   &__date{
     font:{
-      family: Open Sans;
       style: normal;
       weight: normal;
       size: 12px;
@@ -748,7 +724,6 @@ a:active {
 
   &__title{
     font:{
-      family: Open Sans;
       style: normal;
       weight: 600;
       size: 20px;
@@ -760,7 +735,6 @@ a:active {
 
   &__release{
     font:{
-      family: Open Sans;
       style: normal;
       weight: 600;
       size: 20px;
@@ -773,7 +747,6 @@ a:active {
 
   &__description{
     font: {
-      family: Open Sans;
       style: normal;
       weight: normal;
       size: 14px;
@@ -794,7 +767,6 @@ a:active {
 
   &__title{
   font:{
-    family: Open Sans;
     style: normal;
     weight: bold;
     size: 11px;
@@ -854,7 +826,6 @@ a:active {
     }
     &__title{
       font:{
-        family: 'Open Sans';
         style: normal;
         weight: bold;
         size: 10px;
@@ -886,7 +857,6 @@ a:active {
 
   &__publication{
     font:{
-      family: Open Sans;
       style: normal;
       weight: normal;
       size: 12px;
@@ -908,7 +878,6 @@ a:active {
     }
     &__text{
       font:{
-        family: Open Sans;
         weight: normal;
         size: 12px;
       }
@@ -921,7 +890,6 @@ a:active {
 
 .part-title{
   font:{
-    family: Open Sans;
     style: normal;
     weight: 600px;
     size: 34px;
@@ -948,7 +916,6 @@ a:active {
   &__definition{
     background: rgba(33, 127, 247, 0.1);
     font:{
-      family: Open Sans;
       style: italic;
       weight: normal;
       size: 16px;
@@ -973,7 +940,6 @@ a:active {
 
     &__signature{
       font:{
-        family: Open Sans;
         style: normal;
         weight: normal;
         size: 12px;
@@ -1028,7 +994,6 @@ a:active {
   margin-left: auto;
   margin-top: 40px;
   font:{
-    family: Open Sans;
     style: normal;
     weight: normal;
     size: 16px;
@@ -1043,6 +1008,7 @@ a:active {
   margin-top: 18px;
   display: flex;
   flex-direction: row;
+  position: relative;
 
   &__coach{
     display: flex;
@@ -1054,7 +1020,6 @@ a:active {
     }
     &__name{
       font:{
-        family: Open Sans;
         style: normal;
         weight: bold;
         size: 14px;
@@ -1066,7 +1031,6 @@ a:active {
     }
     &__description{
       font:{
-        family: Open Sans;
         style: normal;
         size: 14px;
       }
@@ -1083,7 +1047,6 @@ a:active {
     width: 589px;
     border-left: 6px solid #217FF7;
     font:{
-      family: Open Sans;
       style: italic;
       weight: normal;
       size: 16px;
@@ -1092,11 +1055,9 @@ a:active {
     color: #5D6268;
 
     &__img{
-      position: relative;
-      margin-top: 220px;
-      margin-right: 20px;
-      z-index: 1;
-      margin-left: -60px;
+      position: absolute;
+      left: 93%;
+      top: 85%;
     }
   }
 }
@@ -1123,7 +1084,6 @@ a:active {
   &__signature{
   margin-top: 5px;
   font:{
-    family: Open Sans;
     style: normal;
     weight: normal;
     size: 12px;
@@ -1162,7 +1122,6 @@ a:active {
 
   &__all{
     font:{
-      family: Open Sans;
       style: normal;
       weight: bold;
       size: 11px;
@@ -1170,7 +1129,7 @@ a:active {
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #217FF7;
-    border-bottom: 1px solid #217ff7;
+    border-bottom: 1px dashed rgba(33,127,247,0.3);
     padding-top: 0px;
 
   }
@@ -1213,7 +1172,6 @@ a:active {
     }
     &__text{
       font:{
-        family: Open Sans;
         style: normal;
         weight: normal;
         size: 16px;
@@ -1253,7 +1211,6 @@ a:active {
 
     &__text{
       font:{
-        family: Open Sans;
         style: normal;
         weight: normal;
         size: 12px;
@@ -1270,7 +1227,6 @@ a:active {
 
    &__description{
     font:{
-      family: Open Sans;
       style: normal;
       weight: normal;
       size: 14px;
@@ -1295,7 +1251,6 @@ a:active {
 
   &__title{
     font:{
-      family: Open Sans;
       style: normal;
       weight: 600;
       size: 28px;
@@ -1306,11 +1261,11 @@ a:active {
     margin-top: 30px;
   }
 }
-.content2__title a{
+.content3__title a{
   text-decoration: none;
   color: #010532 !important; /* Цвет ссылок */
 }
-.content2__title a:hover{
+.content3__title a:hover{
   text-decoration: none;
 }
 .similar-news__block__date a{
@@ -1345,7 +1300,6 @@ a:active {
 
     &__date{
       font:{
-        family: Open Sans;
         style: normal;
         weight: normal;
         size: 12px;
@@ -1366,7 +1320,6 @@ a:active {
     }
     &__text{
       font:{
-        family: Open Sans;
         style: normal;
         weight: 600;
         size: 20px;
@@ -1404,7 +1357,6 @@ a:active {
    margin-right: 89px;
   &__title{
     font:{
-      family: Open Sans;
       style: normal;
       weight: normal;
       size: 16px;
@@ -1414,7 +1366,6 @@ a:active {
   }
   &__text{
     font:{
-      family: Open Sans;
       style: normal;
       weight: normal;
       size: 12px;
@@ -1433,7 +1384,6 @@ a:active {
    border-radius: 5px;
    border: none;
    font:{
-    family: Open Sans;
     style: normal;
     weight: bold;
     size: 12px;
